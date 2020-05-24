@@ -1,0 +1,59 @@
+body {
+    background-color: #F3FCF6;
+}
+
+header {
+    text-align: center;
+    background-color: #418959;
+    padding: 10px;
+}
+
+#h1_header {
+    color: #F3FCF6;
+}
+
+footer {
+    background-color: #509968;
+    text-align: center;
+    padding: 2px;
+}
+
+#p_footer {
+    color: #F3FCF6;
+}
+
+p,
+li {
+    font-size: 1.1em;
+    line-height: 1.5;
+    color: black;
+    font-family: 'Josefin Slab', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Amatic SC', cursive;
+    line-height: 0.5em;
+    color: #016221;
+}
+
+a {
+    font-style: italic;
+    color: #13BDC3;
+    font-weight: 900;
+}
+
+.date {
+    color: #609D74;
+    text-align: center;
+}
+
+.heading {
+    background-color: #DFEBE3;
+    padding: 11px;
+    text-align: center;
+}
